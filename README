@@ -1,5 +1,5 @@
 
-Blip Interpreter 0.1
+Blip Interpreter 1.0
 
 by Hasan N. Genc
 
@@ -22,4 +22,4 @@ To build, simply run the following command:
     make blip
 
 Usage:
-    blip blip_program
+    blip <blip_program

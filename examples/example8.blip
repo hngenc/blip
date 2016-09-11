@@ -34,9 +34,5 @@ text "Awesome! you could parse a loop with no statements.\n"
 
 text "Now, how about an infinite one?\n"
 
-//do < 0 x
-//od
-
-
-
- 
+do < 0 x
+od 
